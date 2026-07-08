@@ -1,9 +1,11 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "samyron-plugins",
-  "description": "Scott Myron's Claude Code plugins.",
   "owner": {
     "name": "Scott Myron"
+  },
+  "metadata": {
+    "description": "Scott Myron's Claude Code plugins."
   },
   "plugins": [
     {

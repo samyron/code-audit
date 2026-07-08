@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "samyron-plugins",
+  "description": "Scott Myron's Claude Code plugins.",
+  "owner": {
+    "name": "Scott Myron"
+  },
+  "plugins": [
+    {
+      "name": "code-audit",
+      "description": "Thorough multi-dimension code review (correctness, architecture, performance, security) of a GitHub PR, commit, or local diff, ending in a clear approve / request-changes recommendation.",
+      "category": "development",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "code-audit",
+  "version": "0.1.0",
+  "description": "Thorough multi-dimension code review (correctness, architecture, performance, security) of a GitHub PR, commit, or local diff, ending in a clear approve / request-changes recommendation.",
+  "author": {
+    "name": "Scott Myron"
+  }
+}
